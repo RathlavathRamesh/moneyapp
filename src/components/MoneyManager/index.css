@@ -1,0 +1,90 @@
+/* Write your CSS here */
+.bgContainer {
+  height: 100vh;
+  padding: 20px;
+  box-shadow: inset;
+  background-color: #ffffff;
+}
+.nameCard {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 40vh;
+  margin: 5vh;
+  padding: 20px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+span {
+  color: #0b69ff;
+}
+.name {
+  color: #475569;
+  font-size: 25px;
+  margin-left: 6vh;
+  margin-top: 6vh;
+}
+.cards {
+  display: flex;
+  padding: 20px;
+}
+.trance {
+  color: #475569;
+  font-size: 23px;
+}
+.belowContainer {
+  border-radius: 5px;
+  display: flex;
+}
+.fCard {
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset;
+  padding: 20px;
+  margin: 10px;
+  border: 1px antiquewhite solid;
+  width: 40vw;
+  margin-left: 5vh;
+}
+.inputcard {
+  height: 6vh;
+  border-width: 0px;
+  box-shadow: inset;
+  border-radius: 8px;
+  width: 20vw;
+  background-color: #ede9fe;
+}
+.lab {
+  margin-top: 3vh;
+}
+.form-control {
+  height: 5vh;
+  width: 20vw;
+  background-color: #ede9fe;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.sbmybyn {
+  background-color: #0b69ff;
+  height: 4vh;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  border-width: 0px;
+  border-radius: 10px;
+  margin-top: 2vh;
+}
+.historyCart {
+  height: 6vh;
+  border: 1px solid antiquewhite;
+  width: 30vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.para {
+  font-weight: bold;
+  color: #475569;
+}
